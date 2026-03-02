@@ -1,3 +1,12 @@
+Hi everybody, my full name is Jhonatan David Sanchez Sinning!!!
+I am 21 years old, my date of birth is 02/05/2005.
+
+I’m currently learning software development at riwi and I'm also studying English at an English academy.
+I like sports, I play soccer, baseball, voleyball and basketball but my favorite sports is soccer, I love FC Barcelona, it's the best team of all time and Colombian national soccer team too.
+
+I also a musician, I play instruments like bass, guitar, piano and my favorite is the drums", sometimes, I play the drums in my church or sometimes the bass
+
+
 ## Hi there 👋
 
 <!--
